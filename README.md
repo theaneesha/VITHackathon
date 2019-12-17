@@ -18,5 +18,12 @@
 
 * Live [demo](http://bit.ly/teamhanniballecter)
 
+### Run
+
+```virtualenv venv``` \
+```source env/bin/activate``` \
+```pip install requirements.txt``` \
+```python app.py```
+
 
 
