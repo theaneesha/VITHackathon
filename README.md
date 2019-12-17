@@ -1,6 +1,4 @@
-# VITHackathon
-
-## Team Hannibal Lecter; VIT Hackathon
+## 💉🩸 Team Hannibal Lecter; VIT Hackathon 💉🩸
 
 ## Health++ The Online Health Diagnosis Assistant
 
